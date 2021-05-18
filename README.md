@@ -1,1 +1,1 @@
-<h1 style="font-size: 2px;>Olá, eu sou João Vitor!</h1>
+<h1>Olá, eu sou João Vitor!</h1>
