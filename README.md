@@ -1,6 +1,6 @@
 # Olá, eu sou João Vitor! :wave:
 
-## Desenvolvedor FullStack :computer:
+## Desenvolvedor Front-End :computer:
 
 
 ### HTML
@@ -9,4 +9,4 @@
 ### REACT
 
 
-### REACT
+### FIREBASE
